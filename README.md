@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 👋 Hi, I'm Lorraine Mureya<br> Computer Science Student | 🤖 AI & Machine Learning Enthusiast  <br>📍 Based in New York  @ SJU<br><br>🚀 About Me<br>I’m a Computer Science student passionate about building real-world applications using AI, data, and web technologies.<br><br>I enjoy creating:<br>- 🤖 AI-powered applications (OpenAI, RAG systems)<br>- 🌐 Full-stack web apps (Flask, HTML, CSS)<br><br>Currently learning:<br>- Agent-based AI systems<br>- Retrieval-Augmented Generation (RAG) <br>- Advanced backend development
 
 
@@ -26,13 +26,28 @@
 
 </div>
 
-## 📊 GitHub Stats:
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
-  
-![](https://github-readme-stats.shion.dev/api?username=Nana1403&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nana1403&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nana1403&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Nana1403&show_icons=true&theme=radical&hide_border=true&border_radius=12"
+    alt="Lorraine's GitHub statistics"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nana1403&theme=radical&hide_border=true&border_radius=12&layout=compact"
+    alt="Lorraine's most-used languages"
+    height="165"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://streak-stats.demolab.com/?user=Nana1403&theme=radical&hide_border=true&border_radius=12"
+    alt="Lorraine's GitHub contribution streak"
+  />
 
 </div>
 
