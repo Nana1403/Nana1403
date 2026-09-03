@@ -1,5 +1,10 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" alt="Waving hand" width="40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=800&size=34&pause=1000&color=FF4FA3&center=true&vCenter=true&width=650&height=55&lines=Hello%2C+my+name+is+Lorraine+Mureya" alt="Hello, my name is Lorraine Mureya" />
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=text&height=90&color=gradient&customColorList=12,14,18,20,24&text=Lorraine%20Mureya&fontSize=60&fontAlignY=55&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=85" alt="Lorraine Mureya" />
+  Computer Science Student &nbsp;·&nbsp; AI &amp; Machine Learning Enthusiast
 </p>
 
 ---------
