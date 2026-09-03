@@ -1,11 +1,6 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" alt="Waving hand" width="40" />
   <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=800&size=34&pause=1000&color=FF4FA3&center=true&vCenter=true&width=650&height=55&lines=Hello%2C+my+name+is+Lorraine+Mureya" alt="Hello, my name is Lorraine Mureya" />
 </h1>
-
-<p align="center">
-  Computer Science Student &nbsp;·&nbsp; AI &amp; Machine Learning Enthusiast
-</p>
 
 <p align="center">
   Computer Science Student &nbsp;·&nbsp; AI &amp; Machine Learning Enthusiast
