@@ -30,11 +30,11 @@
 <p align="center">
   <img
     width="360"
-    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-    alt="Me, debugging at 2am"
+    src="https://media.giphy.com/media/IRkH0z2ZMuh8QoSQTI/giphy.gif"
+    alt="Me, coding at 2am"
   />
   <br/>
-  <sub><em>me, hunting a bug at 2am ☕🐛</em></sub>
+  <sub><em>me, deep in the code at 2am ☕💻</em></sub>
 </p>
 
 ### ✨ What I Enjoy Creating
