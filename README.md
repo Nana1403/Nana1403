@@ -1,11 +1,16 @@
-<!-- ===== HEADER ===== -->
-<!-- <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=Hi,%20I'm%20Lorraine%20Mureya%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20%26%20Machine%20Learning%20Enthusiast&descSize=17&descAlignY=58&animation=fadeIn"
-    alt="Lorraine Mureya profile banner"
-  />
-</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Luckiest+Guy&size=44&pause=1000&color=FF4FA3&center=true&vCenter=true&width=800&height=65&lines=Hi%2C+I'm+Lorraine+Mureya+%F0%9F%91%8B" alt="Lorraine Mureya" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=700&size=24&pause=1000&color=22C1DC&center=true&vCenter=true&width=700&height=40&lines=Computer+Science+Student+%40+St.+John's+University" alt="Computer Science Student" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=700&size=24&pause=1000&color=FF8C1A&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Machine+Learning+Enthusiast+%E2%9A%A1;Future+AI+Engineer+%F0%9F%A4%96" alt="AI & ML Enthusiast" />
+</p>
+
+---------
 
 <p align="center">
   <a href="https://git.io/typing-svg">
