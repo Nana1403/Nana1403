@@ -1,12 +1,85 @@
 ## 💫 About Me:
-👋 Hi, I'm Lorraine Mureya<br> Computer Science Student | 🤖 AI & Machine Learning Enthusiast  <br>📍 Based in New York  @ SJU<br><br>🚀 About Me<br>I’m a Computer Science student passionate about building real-world applications using AI, data, and web technologies.<br><br>I enjoy creating:<br>- 🤖 AI-powered applications (OpenAI, RAG systems)<br>- 🌐 Full-stack web apps (Flask, HTML, CSS)<br><br>Currently learning:<br>- Agent-based AI systems<br>- Retrieval-Augmented Generation (RAG) <br>- Advanced backend development
+<!-- Profile Banner -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=Hi,%20I'm%20Lorraine%20Mureya%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20%26%20Machine%20Learning%20Enthusiast&descSize=17&descAlignY=58&animation=fadeIn"
+    alt="Lorraine Mureya profile banner"
+  />
+</p>
+
+<p align="center">
+  📍 New York &nbsp;•&nbsp; 🎓 St. John’s University &nbsp;•&nbsp; 🤖 Future AI Engineer
+</p>
+
+<p align="center">
+  I create intelligent applications that bring together
+  <strong>artificial intelligence, data, web development,</strong>
+  and <strong>computer engineering</strong>.
+</p>
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  I’m a Computer Science student passionate about turning creative ideas into
+  real-world technology. I enjoy exploring how software, hardware, and artificial
+  intelligence can work together to solve problems and create meaningful experiences.
+</p>
+
+<h3 align="center">✨ What I Enjoy Creating</h3>
+
+<div align="center">
+
+| 🤖 AI & Machine Learning | 🌐 Web Development |
+|:---:|:---:|
+| AI-powered applications using OpenAI, agents, and RAG systems | Full-stack applications using Django, Flask, HTML, CSS, and JavaScript |
+
+| 🎨 User Experiences | ⚙️ Intelligent Systems |
+|:---:|:---:|
+| Responsive and welcoming interfaces | Projects connecting software, hardware, and AI |
+
+</div>
+
+<h3 align="center">🌱 Currently Learning</h3>
+
+<p align="center">
+  🧠 Agent-based AI systems
+  &nbsp; • &nbsp;
+  📚 Retrieval-Augmented Generation
+  &nbsp; • &nbsp;
+  🛠️ Advanced backend development
+</p>
+
+<p align="center">
+  💻 Modern JavaScript development
+  &nbsp; • &nbsp;
+  🔌 Computer hardware and engineering fundamentals
+</p>
+
+<h3 align="center">🚧 Currently Working On</h3>
+
+<p align="center">
+  <strong>📓 Deploying a personalized note-taking application</strong>
+  <br/>
+  <em>Coming soon!</em>
+</p>
+<!-- Bottom Banner -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=12,14,18,20,24"
+    alt="Profile footer"
+  />
+</p>
 
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorraine-mureya-1385742a4) 
 
-## 💻 Tech Stack:
+<h2 align="center"> ⚙️ Tech Stack</h2>
 
 <div align="center">
 
@@ -51,8 +124,14 @@
 
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">💭 A Little Developer Inspiration</h2>
+
+<div align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Random developer quote"
+  />
+</div>
 
 
 ---
