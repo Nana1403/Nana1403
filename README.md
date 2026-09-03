@@ -1,11 +1,11 @@
 <!-- ===== HEADER ===== -->
-<p align="center">
+<!-- <p align="center">
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=Hi,%20I'm%20Lorraine%20Mureya%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20%26%20Machine%20Learning%20Enthusiast&descSize=17&descAlignY=58&animation=fadeIn"
     alt="Lorraine Mureya profile banner"
   />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
