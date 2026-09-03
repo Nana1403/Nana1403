@@ -1,5 +1,4 @@
-## 💫 About Me:
-<!-- Profile Banner -->
+<!-- ===== HEADER ===== -->
 <p align="center">
   <img
     width="100%"
@@ -9,63 +8,129 @@
 </p>
 
 <p align="center">
-  📍 New York &nbsp;•&nbsp; 🎓 St. John’s University &nbsp;•&nbsp; 🤖 Future AI Engineer
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F71EBE&center=true&vCenter=true&width=620&lines=Turning+creative+ideas+into+real+technology;Building+AI-powered+applications;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  I create intelligent applications that bring together
-  <strong>artificial intelligence, data, web development,</strong>
-  and <strong>computer engineering</strong>.
+  📍 New York &nbsp;•&nbsp; 🎓 St. John’s University &nbsp;•&nbsp; 🤖 Future AI Engineer
 </p>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## 🚀 About Me
 
 <p align="center">
-  I’m a Computer Science student passionate about turning creative ideas into
-  real-world technology. I enjoy exploring how software, hardware, and artificial
-  intelligence can work together to solve problems and create meaningful experiences.
+  I’m a Computer Science student passionate about turning creative ideas into real-world technology.
+  I love exploring how <strong>software, hardware, and artificial intelligence</strong> can work together
+  to solve problems and create meaningful experiences.
 </p>
 
-<h3 align="center">✨ What I Enjoy Creating</h3>
+<p align="center">
+  <img
+    width="360"
+    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+    alt="Me, debugging at 2am"
+  />
+  <br/>
+  <sub><em>me, hunting a bug at 2am ☕🐛</em></sub>
+</p>
+
+### ✨ What I Enjoy Creating
 
 <div align="center">
 
 | 🤖 AI & Machine Learning | 🌐 Web Development |
 |:---:|:---:|
-| AI-powered applications using OpenAI, agents, and RAG systems | Full-stack applications using Django, Flask, HTML, CSS, and JavaScript |
+| AI-powered apps using OpenAI, agents, and RAG systems | Full-stack apps with Django, Flask, HTML, CSS & JavaScript |
 
 | 🎨 User Experiences | ⚙️ Intelligent Systems |
 |:---:|:---:|
-| Responsive and welcoming interfaces | Projects connecting software, hardware, and AI |
+| Responsive, welcoming interfaces | Projects connecting software, hardware & AI |
 
 </div>
 
-<h3 align="center">🌱 Currently Learning</h3>
+### 🌱 Currently Learning
 
 <p align="center">
-  🧠 Agent-based AI systems
-  &nbsp; • &nbsp;
-  📚 Retrieval-Augmented Generation
-  &nbsp; • &nbsp;
-  🛠️ Advanced backend development
-</p>
-
-<p align="center">
-  💻 Modern JavaScript development
-  &nbsp; • &nbsp;
-  🔌 Computer hardware and engineering fundamentals
-</p>
-
-<h3 align="center">🚧 Currently Working On</h3>
-
-<p align="center">
-  <strong>📓 Deploying a personalized note-taking application</strong>
+  🧠 Agent-based AI systems &nbsp;•&nbsp; 📚 Retrieval-Augmented Generation &nbsp;•&nbsp; 🛠️ Advanced backend development
   <br/>
-  <em>Coming soon!</em>
+  💻 Modern JavaScript &nbsp;•&nbsp; 🔌 Computer hardware & engineering fundamentals
 </p>
-<!-- Bottom Banner -->
+
+### 🚧 Currently Working On
+
+<p align="center">
+  <strong>📓 Deploying a personalized note-taking application</strong> — <em>coming soon!</em>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lorraine-mureya-1385742a4">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Nana1403">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Web**  
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-white.svg?style=flat&logo=jinja&logoColor=black)
+
+**Data & ML**  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Nana1403&show_icons=true&theme=radical&hide_border=true&border_radius=12" alt="Lorraine's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nana1403&theme=radical&hide_border=true&border_radius=12&layout=compact" alt="Lorraine's most-used languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nana1403&theme=radical&hide_border=true&border_radius=12" alt="Lorraine's GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nana1403&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Lorraine's GitHub trophies" />
+</div>
+
+---
+
+## 💭 A Little Developer Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote" />
+</div>
+
+<!-- ===== FOOTER ===== -->
 <p align="center">
   <img
     width="100%"
@@ -74,82 +139,9 @@
   />
 </p>
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=Nana1403&label=Profile%20views&color=ff1493&style=flat" alt="Profile views" />
+  </a>
+</p>
 
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorraine-mureya-1385742a4) 
-
-<h2 align="center"> ⚙️ Tech Stack</h2>
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-white.svg?style=flat&logo=jinja&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-
-</div>
-
-<h2 align="center">📊 My GitHub Stats</h2>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=Nana1403&show_icons=true&theme=radical&hide_border=true&border_radius=12"
-    alt="Lorraine's GitHub statistics"
-    height="165"
-  />
-
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nana1403&theme=radical&hide_border=true&border_radius=12&layout=compact"
-    alt="Lorraine's most-used languages"
-    height="165"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://streak-stats.demolab.com/?user=Nana1403&theme=radical&hide_border=true&border_radius=12"
-    alt="Lorraine's GitHub contribution streak"
-  />
-
-</div>
-
-<h2 align="center">💭 A Little Developer Inspiration</h2>
-
-<div align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-    alt="Random developer quote"
-  />
-</div>
-
-
----
-[![](https://komarev.com/ghpvc/?username=Nana1403&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Nana1403/Nana1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
