@@ -6,8 +6,6 @@
   Computer Science Student &nbsp;·&nbsp; AI &amp; Machine Learning Enthusiast
 </p>
 
----------
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F71EBE&center=true&vCenter=true&width=620&lines=Turning+creative+ideas+into+real+technology;Building+AI-powered+applications;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
